@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Parinat | Technovation</title>
+    <link href="http://parinat.stab-iitb.org/life/feed.xml" rel="self" />
+    <link href="http://parinat.stab-iitb.org/life/" />
+    <updated>2013-12-09T19:32:05+08:00</updated>
+    <id>http://parinat.stab-iitb.org/life/</id>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <author><name>nickname</name></author>
+        <link href="http://parinat.stab-iitb.org/2013/helloworld.html"/>
+        <published>2013-09-12T00:00:00+08:00</published>
+        <updated>2013-12-09T19:32:05+08:00</updated>
+        <id>http://parinat.stab-iitb.org/2013/helloworld.html</id>
+        <category scheme="http://parinat.stab-iitb.org/tag/#python" term="python" label="python" />
+        <category scheme="http://parinat.stab-iitb.org/tag/#code" term="code" label="code" />
+        <content type="html" xml:base="http://parinat.stab-iitb.org/" xml:lang="en">
+            <![CDATA[ <p>Hello World. This is a DEMO post.</p>
+]]>
+        </content>
+    </entry>
+</feed>
